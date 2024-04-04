@@ -237,7 +237,7 @@ sections:
       text: |-
         My preferred medium for communication is via e-mail
       # Contact (add or remove contact options as necessary)
-      email: k k o u g i o u [at] a u a dot gr
+      email:
       phone: 
       appointment_url: 
       address:
