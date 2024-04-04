@@ -128,7 +128,11 @@ He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google
 
 Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/)   
 
-He enjoys working with [Prof. Trigas](https://scholar.google.gr/citations?user=L5-ME_cAAAAJ&hl=en) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
+He enjoys working with [Prof. Trigas](https://scholar.google.gr/citations?user=L5-ME_cAAAAJ&hl=en) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens
 
-Kostas has also worked alongside [Prof. Petanidou](https://geography.aegean.gr/ppl/index_en.php?content=0&bio=tpet) and the [Biogeography & Ecology Lab](https://bioecolab-aegean.blogspot.com/2013/11/theodora-petanidou.html) in the University of the Aegean, as well as [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
+He also enjoys working with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
+
+Kostas has worked alongside [Prof. Petanidou](https://geography.aegean.gr/ppl/index_en.php?content=0&bio=tpet) and the [Biogeography & Ecology Lab](https://bioecolab-aegean.blogspot.com/2013/11/theodora-petanidou.html) in the University of the Aegean. 
+
+Recently, he started collaborating with [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
 {style="text-align: justify;"}
