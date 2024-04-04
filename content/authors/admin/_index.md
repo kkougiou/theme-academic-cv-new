@@ -56,7 +56,7 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: r, rstudio
+        icon: r
         icon_pack: fab
       - name: Data Science
         description: ''
@@ -68,20 +68,20 @@ skills:
         percent: 40
         icon: python
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Gym
-        description: ''
-        percent: 100
-        icon: person-hiking
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 90
-        icon: camera-retro
-        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Gym
+#        description: ''
+#        percent: 100
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Photography
+#        description: ''
+#        percent: 90
+#        icon: camera-retro
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -119,9 +119,9 @@ highlight_name: true
 
 Kostas is a quantitative ecologist and plant taxonomist. His research interests span from investigating island and mountain biogeographical and biodiversity patterns to assessing the effects of climate and land-use change on plant species distribution, with an emphasis on range-restricted species.   
  
-He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google.gr/citations?user=1WMOcPMAAAAJ&hl=en&oi=ao) and [Prof. Maria Panitsa](https://scholar.google.gr/citations?user=JLeOBm0AAAAJ&hl=en) and the [Botany lab](http://botanylab.upatras.gr/) team.
+He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google.gr/citations?user=1WMOcPMAAAAJ&hl=en&oi=ao) and [Prof. Maria Panitsa](https://scholar.google.gr/citations?user=JLeOBm0AAAAJ&hl=en) and the [Botany lab](http://botanylab.upatras.gr/) team
 
-Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr/index.php?option=com_content&view=category&layout=blog&id=28&Itemid=101), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/).   
+Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr/index.php?option=com_content&view=category&layout=blog&id=28&Itemid=101), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/)   
 
 He enjoys working with [Ass. Prof. Trigas](http://efp.aua.gr/en/userpages_en/713) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
 {style="text-align: justify;"}
