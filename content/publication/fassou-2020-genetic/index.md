@@ -7,6 +7,9 @@ authors:
 - Gregoris Iatrou
 - Panayiotis Trigas
 - Vasileios Papasotiropoulos
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2020-01-01'
 publishDate: '2024-04-04T10:49:30.935914Z'
 publication_types:

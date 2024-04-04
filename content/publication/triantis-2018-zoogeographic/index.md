@@ -12,6 +12,9 @@ authors:
 - Nikos Probonas
 - Konstantinos Proios
 - ' others'
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2018-01-01'
 publishDate: '2024-04-04T10:49:30.892720Z'
 publication_types:
