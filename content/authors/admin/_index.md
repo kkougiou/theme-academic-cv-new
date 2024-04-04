@@ -1,88 +1,85 @@
 ---
 # Display name
-title: 吳健雄
+title: Konstantinos Kougioumoutzis
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Konstantinos
+last_name: Kougioumoutzis
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Post-doctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Laboratory of Botany, Department of Biology, University of Patras
+    url: www.biology.upatras.gr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests span from investigating island and mountain biodiversity and biogeographical patterns to assesing the impacts of climate and land-use change on plant species distribution
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biodiversity and Biogeography
+  - Plant species distribution in space and time
+  - Plant taxonomy and systematics
+  - Impacts of climate and land-use change on biodiversity
+  - Conservation genetics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Biodiversity and Biogeographical Patterns
+      institution: University of Patras
+      year: 2014
+    - course: M.Sc. in Ecology – Management and Conservation of Natural Environment
+      institution: University of Patras
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Biology
+      institution: University of Patras
+      year: 2007
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
-        icon: python
+        percent: 90
+        icon: r, rstudio
         icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Python
         description: ''
         percent: 40
-        icon: database
+        icon: python
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Gym
         description: ''
         percent: 100
-        icon: cat
+        icon: person-hiking
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 90
         icon: camera-retro
         icon_pack: fas
 
@@ -93,32 +90,38 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:kkougiou@aua.gr'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/konkougioumou
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.gr/citations?user=CceadYwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kkougiou
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kostas-kougioumoutzis-35876060/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kostas is a quantitative ecologist and plant taxonomist. His research interests span from investigating island and mountain biogeographical and biodiversity patterns to assessing the effects of climate and land-use change on plant species distribution, with an emphasis on range-restricted species.   
+ 
+He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google.gr/citations?user=1WMOcPMAAAAJ&hl=en&oi=ao) and [Prof. Maria Panitsa](https://scholar.google.gr/citations?user=JLeOBm0AAAAJ&hl=en) and the [Botany lab](http://botanylab.upatras.gr/) team.
+
+Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr/index.php?option=com_content&view=category&layout=blog&id=28&Itemid=101), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/).   
+
+He enjoys working with [Ass. Prof. Trigas](http://efp.aua.gr/en/userpages_en/713) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team.
 {style="text-align: justify;"}
