@@ -126,9 +126,9 @@ Kostas is a quantitative ecologist and plant taxonomist. His research interests 
  
 He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google.gr/citations?user=1WMOcPMAAAAJ&hl=en&oi=ao) and [Prof. Maria Panitsa](https://scholar.google.gr/citations?user=JLeOBm0AAAAJ&hl=en) and the [Botany lab](http://botanylab.upatras.gr/) team
 
-Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr/index.php?option=com_content&view=category&layout=blog&id=28&Itemid=101), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/)   
+Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/)   
 
-He enjoys working with [Prof. Trigas](http://efp.aua.gr/en/userpages_en/713) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
+He enjoys working with [Prof. Trigas](https://scholar.google.gr/citations?user=L5-ME_cAAAAJ&hl=en) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
 
 Kostas has also worked alongside [Prof. Petanidou](https://geography.aegean.gr/ppl/index_en.php?content=0&bio=tpet) and the [Biogeography & Ecology Lab](https://bioecolab-aegean.blogspot.com/2013/11/theodora-petanidou.html) in the University of the Aegean, as well as [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
 {style="text-align: justify;"}
