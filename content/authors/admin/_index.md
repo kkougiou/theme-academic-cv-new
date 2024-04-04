@@ -123,5 +123,5 @@ He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google
 
 Kostas has served  as an Adjunct Lecturer at the [Department of Biology in the University of Patras](http://www.biology.upatras.gr/index.php?option=com_content&view=category&layout=blog&id=28&Itemid=101), where he taught an [undergraduate macroecology course](https://eclass.upatras.gr/courses/BIO357/).   
 
-He enjoys working with [Ass. Prof. Trigas](http://efp.aua.gr/en/userpages_en/713) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team.
+He enjoys working with [Ass. Prof. Trigas](http://efp.aua.gr/en/userpages_en/713) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens and with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
 {style="text-align: justify;"}
