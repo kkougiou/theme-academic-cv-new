@@ -72,7 +72,7 @@ skills:
         description: ''
         percent: 40
         icon: inkscape
-        icon_pack: fab
+        icon_pack: fav
       - name: Markdown
         description: ''
         percent: 80
