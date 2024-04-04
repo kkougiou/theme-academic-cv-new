@@ -125,6 +125,7 @@ highlight_name: true
 Kostas is a quantitative ecologist and plant taxonomist. 
 
 His research interests span from investigating island and mountain biogeographical and biodiversity patterns to assessing the effects of climate and land-use change on plant species distribution, with an emphasis on range-restricted species.
+{style="text-align: justify;"}
 
 # Achievements
 1. He has been a **Principal Investigator** of the research program entitled: “Species on the brink of extinction” funded by **HFRI** & **GSRT** [2018-2021]
@@ -133,15 +134,16 @@ His research interests span from investigating island and mountain biogeographic
 4. He is a member of the IUCN Species Survival Committee
 5. He has served as a Board member of the [Hellenic Botanical Society](https://www.hbs.gr/about) [2019-2022; Substitute member: 2022-2025]
 6. He has served as a Guest Editor for a [special issue](https://www.mdpi.com/journal/sustainability/special_issues/PDCM) of Sustainability, [another special issue](https://www.mdpi.com/journal/land/special_issues/land_plant) of Land and [a third special issue](https://www.mdpi.com/journal/plants/special_issues/Taxon_Plant_Conserv_II) of Plants
+{style="text-align: justify;"}
 
 # Collaborations
--He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google.gr/citations?user=1WMOcPMAAAAJ&hl=en&oi=ao) and [Prof. Maria Panitsa](https://scholar.google.gr/citations?user=JLeOBm0AAAAJ&hl=en) and the [Botany lab](http://botanylab.upatras.gr/) team
+1. He collaborates closely with [Prof. Panayotis Dimopoulos](https://scholar.google.gr/citations?user=1WMOcPMAAAAJ&hl=en&oi=ao) and [Prof. Maria Panitsa](https://scholar.google.gr/citations?user=JLeOBm0AAAAJ&hl=en) and the [Botany lab](http://botanylab.upatras.gr/) team
 
--He enjoys working with [Prof. Trigas](https://scholar.google.gr/citations?user=L5-ME_cAAAAJ&hl=en) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens
+2. He enjoys working with [Prof. Trigas](https://scholar.google.gr/citations?user=L5-ME_cAAAAJ&hl=en) from the [Department of Crop Science](http://efp.aua.gr/en) in the Agricultural University of Athens
 
--He also enjoys working with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
+3. He also enjoys working with [Prof. Halley](https://www.john-halley.com/) and his [EcoLab](https://twitter.com/EcoLab_BET) team
 
--Kostas has worked alongside [Prof. Petanidou](https://geography.aegean.gr/ppl/index_en.php?content=0&bio=tpet) and the [Biogeography & Ecology Lab](https://bioecolab-aegean.blogspot.com/2013/11/theodora-petanidou.html) in the University of the Aegean
+4. Kostas has worked alongside [Prof. Petanidou](https://geography.aegean.gr/ppl/index_en.php?content=0&bio=tpet) and the [Biogeography & Ecology Lab](https://bioecolab-aegean.blogspot.com/2013/11/theodora-petanidou.html) in the University of the Aegean
 
--Recently, he started collaborating with [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
+5. Recently, he started collaborating with [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
 {style="text-align: justify;"}
