@@ -68,11 +68,6 @@ skills:
         percent: 40
         icon: python
         icon_pack: fab
-      - name: Inkscape
-        description: ''
-        percent: 40
-        icon: inkscape
-        icon_pack: fav
       - name: Markdown
         description: ''
         percent: 80
