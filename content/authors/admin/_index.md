@@ -133,7 +133,10 @@ His research interests span from investigating island and mountain biogeographic
 3. He has received the **best paper award for 2022** for his publication regarding the [impacts of climate change on the Cretan single island endemics](https://www.mdpi.com/1424-2818/12/7/270) in MDPI Diversity
 4. He is a member of the IUCN Species Survival Committee
 5. He has served as a Board member of the [Hellenic Botanical Society](https://www.hbs.gr/about) [2019-2022; Substitute member: 2022-2025]
-6. He has served as a Guest Editor for a [special issue](https://www.mdpi.com/journal/sustainability/special_issues/PDCM) of Sustainability, [another special issue](https://www.mdpi.com/journal/land/special_issues/land_plant) of Land and [a third special issue](https://www.mdpi.com/journal/plants/special_issues/Taxon_Plant_Conserv_II) of Plants
+6. He has served as a Guest Editor for:
+    1. a [special issue](https://www.mdpi.com/journal/sustainability/special_issues/PDCM) of Sustainability
+    2. [another special issue](https://www.mdpi.com/journal/land/special_issues/land_plant) of Land
+    3. and [a third special issue](https://www.mdpi.com/journal/plants/special_issues/Taxon_Plant_Conserv_II) of Plants
 {style="text-align: justify;"}
 
 # Collaborations
