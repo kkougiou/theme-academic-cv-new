@@ -145,5 +145,7 @@ His research interests span from investigating island and mountain biogeographic
 
 4. Kostas has worked alongside [Prof. Petanidou](https://geography.aegean.gr/ppl/index_en.php?content=0&bio=tpet) and the [Biogeography & Ecology Lab](https://bioecolab-aegean.blogspot.com/2013/11/theodora-petanidou.html) in the University of the Aegean
 
-5. Recently, he started collaborating with [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
+5. He has also worked with [Prof. Kostas A. Triantis](https://scholar.google.gr/citations?user=jTzQHXwAAAAJ&hl=en&oi=ao) and [Prof. Aristeidis Parmakelis](https://scholar.google.gr/citations?user=eaNpqN8AAAAJ&hl=en&oi=ao) from the [UAMECO lab](https://sites.google.com/site/uameco/home) at the Department of Ecology and Systematics, Faculty of Biology in the National and Kapodistrian University of Athens  
+
+6. Recently, he started collaborating with [Prof. Kati](https://bc.lab.uoi.gr/en/who-we-are/vassiliki-kati/) and the [Biodiversity Conservation Lab](https://bc.lab.uoi.gr/en/)
 {style="text-align: justify;"}
